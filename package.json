@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "n8n node para integracao com API Fidelimax",
 	"license": "MIT",
-	"homepage": "",
+	"homepage": "https://github.com/Fidelimax/n8n/",
 	"keywords": [
 		"n8n-community-node-package",
 		"fidelimax",
@@ -11,12 +11,12 @@
 		"points"
 	],
 	"author": {
-		"name": "Your Name",
-		"email": "your@email.com"
+		"name": "Fidelimax",
+		"email": "tech@fidelimax.com.br"
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/Fidelimax/n8n/"
 	},
 	"scripts": {
 		"build": "n8n-node build",
